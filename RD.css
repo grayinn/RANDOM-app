@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+body {
+    text-align: center;
+}
+div {
+    display: inline-block;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
+.mot h2{
+    font-family: 'Baloo 2', cursive;
+    text-transform: uppercase;
+}
+.hai{
+    text-align: left;
+}
+
+.ba {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.ba button{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    background-color: rgb(62, 164, 62);
+    border: 2px solid rgb(37, 81, 47);
+}
